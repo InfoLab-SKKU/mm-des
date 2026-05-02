@@ -1,4 +1,4 @@
-# 🧠 MM-DES: Multimodal Dynamic Ensemble Selection for Clinical Prediction
+# MM-DES: Multimodal Dynamic Ensemble Selection for Clinical Prediction
 
 **MM-DES: Enhancing multimodal clinical prediction using joint contrastive embeddings and dynamic ensemble selection.**
 
