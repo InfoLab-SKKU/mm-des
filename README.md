@@ -55,7 +55,7 @@ MM-DES includes interpretability mechanisms to understand:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/mm-des.git
+git clone https://github.com/InfoLab-SKKU/mm-des.git
 cd mm-des
 ```
 
