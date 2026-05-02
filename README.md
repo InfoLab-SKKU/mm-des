@@ -47,3 +47,16 @@ MM-DES includes interpretability mechanisms to understand:
 ![XAI Visualization](images/xai_mm_des.png)
 
 
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-repo/mm-des.git
+cd mm-des
+```
+
+
