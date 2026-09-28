@@ -62,11 +62,12 @@ cd mm-des
 We would appreciate it if you could cite our work when using our code.
 
 ```bibtex
-@inproceedings{Juraev_Soubih_Abuhmed_2026,
-  author    = {Juraev, Firuz and Soubih, Abdenour and Abuhmed, Tamer},
-  title     = {{MM-DES}: Enhancing Multimodal Clinical Prediction with Joint Contrastive Embeddings and Dynamic Ensembles},
-  booktitle = {Proceedings of the 28th International Conference on Pattern Recognition ({ICPR} 2026)},
-  year      = {2026},
-  address   = {Lyon, France}
+@inproceedings{juraev2026mm,
+  title={MM-DES: Enhancing Multimodal Clinical Prediction with Joint Contrastive Embeddings and Dynamic Ensembles},
+  author={Juraev, Firuz and Soubih, Abdenour and Abuhmed, Tamer},
+  booktitle={International Conference on Pattern Recognition},
+  pages={261--276},
+  year={2026},
+  organization={Springer}
 }
 ```
